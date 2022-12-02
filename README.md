@@ -32,3 +32,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Some last thoughts
+
+This is the end of my journey on learning Next and try to become a fullstack developer.
+The End of this journey opens up a new page in future. With new skills come new challenges. New developments daily means growing up daily.
+Thank you for checking out this simple projects, and the rest of my current account.
+Wish you also have the best on your development journey. Congrats on every step you made.
+Have fun coding!
