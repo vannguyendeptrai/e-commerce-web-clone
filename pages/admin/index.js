@@ -30,9 +30,9 @@ export default function Admin({ products }) {
       <h1 className='mt-10 font-extrabold text-2xl mb-8'>Admin</h1>
 
       <Link href='/admin/new'>
-        <a className='inline mx-auto bg-black text-white px-3 py-1 text-lg'>
-          Add a new product
-        </a>
+        <p className='inline mx-auto bg-black text-white px-3 py-1 text-lg'>
+            Add a new product
+        </p>
       </Link>
 
       <div className='mt-20 mx-auto max-w-sm'>
