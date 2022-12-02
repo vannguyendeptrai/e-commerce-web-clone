@@ -36,7 +36,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Some last thoughts
 
 This is the end of my journey on learning Next and try to become a fullstack developer.
+
 The End of this journey opens up a new page in future. With new skills come new challenges. New developments daily means growing up daily.
 Thank you for checking out this simple projects, and the rest of my current account.
+
 Wish you also have the best on your development journey. Congrats on every step you made.
+
 Have fun coding!
